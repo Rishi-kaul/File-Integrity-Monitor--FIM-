@@ -1,0 +1,8 @@
+# Standard libraries (no need to install separately)
+# hashlib
+# os
+# time
+#If not install pl install them
+# Specifies that the code is compatible with Python 3.8 or higher
+python>=3.8
+

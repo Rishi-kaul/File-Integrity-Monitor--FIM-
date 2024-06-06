@@ -1,0 +1,9 @@
+Baseline Establishment: Initially, FIM creates a known-good state of files by recording their attributes, such as size, permissions, timestamps, and cryptographic hashes.
+
+Continuous Monitoring: The system continuously or periodically scans the files to detect changes, ensuring that any unauthorized modifications, additions, or deletions are quickly identified.
+
+Alerts and Notifications: When a change is detected, FIM generates alerts and notifications to inform administrators or security personnel. This allows for quick investigation and response to potential security incidents.
+
+Logging and Reporting: FIM tools often include logging and reporting features to provide detailed information about changes, including what was changed, when, and by whom. This is essential for auditing and compliance purposes.
+
+Integration with Other Security Tools: FIM can be integrated with other security solutions like Security Information and Event Management (SIEM) systems, enhancing the overall security posture by providing comprehensive visibility into system changes and potential threats.
